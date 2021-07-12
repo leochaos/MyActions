@@ -179,7 +179,7 @@ pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 4. ENJOY!上游更改三小时左右就会自动发起同步。
 
 ## 鸣谢
-123123123
+1231587123
 [@NobyDa](https://github.com/NobyDa) - 京东每日签到
 
 [@lxk0301](https://github.com/lxk0301)  - 京东系列其他签到
